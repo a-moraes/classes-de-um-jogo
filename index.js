@@ -20,3 +20,5 @@ class Heroi {
   meuHeroi = new Heroi("Shinobi", 28, "ninja")
   meuHeroi.atacar()
   
+
+  
